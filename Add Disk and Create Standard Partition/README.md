@@ -1,4 +1,4 @@
-# Add a Disk & Create Standard Partition (MBR/GPT)
+# Add a Disk & Create Standard Partition 
 
 🎯 Objective
 Attach a new virtual disk to the Linux system and create a standard partition
