@@ -1,4 +1,4 @@
 # Linux-Enterprise-Homelab
 
 ## Modules Included
-- [Disk Partitioning](./DiskPartitioning)
+- [Disk Partitioning](.Disk Partitioning)
