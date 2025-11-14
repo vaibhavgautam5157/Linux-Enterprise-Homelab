@@ -1,4 +1,4 @@
 # Linux-Enterprise-Homelab
 
 ## Modules Included
-- [Disk Partitioning](.Disk Partitioning)
+- [Disk Partitioning](https://github.com/vaibhavgautam5157/Linux-Enterprise-Homelab/tree/main/Disk%20Partitioning)
