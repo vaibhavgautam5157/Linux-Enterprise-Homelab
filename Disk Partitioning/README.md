@@ -12,14 +12,14 @@ using `fdisk`. Format it, mount it, and make it persistent using `/etc/fstab`.
 - Added a new virtual disk through VMware / VirtualBox.
 - Verified detection of the disk using:
 
-lsblk
-fdisk -l
+  - lsblk 
+  - fdisk -l
 
 
 ### 2️⃣ Create a Partition
 Used `fdisk`:
 
-fdisk /dev/sdb
+  fdisk /dev/sdb
 
 Performed:
 - Create new partition  
@@ -63,9 +63,9 @@ All screenshots related to this task are located in the `screenshots/` folder.
 Commands used to verify:
 
 
-lsblk
-df -h
-mount | grep sdb1
+ - lsblk
+ - df -h
+ - mount | grep sdb1
 
 
 ---
