@@ -9,7 +9,7 @@ using `fdisk`. Format it, mount it, and make it persistent using `/etc/fstab`.
 ## 🧩 Steps Performed
 
 ### 1️⃣ Add New Disk
-- Added a new virtual disk through VMware / VirtualBox.
+- Added a new virtual disk through Oracle VirtualBox.
 - Verified detection of the disk using:
 
   - lsblk 
