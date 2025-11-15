@@ -1,7 +1,7 @@
 # Disk Partition 
 
 🎯 Objective
-Attach a new virtual disk to the Linux system and create a standard partition
+- Attach a new virtual disk to the Linux system and create a standard partition
 using `fdisk`. Format it, mount it, and make it persistent using `/etc/fstab`.
 
 ---
