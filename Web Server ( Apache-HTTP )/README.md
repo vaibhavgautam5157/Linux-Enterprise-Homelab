@@ -4,7 +4,6 @@ _A Hands-on Linux Enterprise Homelab Project_
 This project demonstrates the complete setup and configuration of an **Apache HTTP Web Server** on a CentOS-based Linux system.  
 It includes installation, service management, firewall configuration, custom webpage deployment, troubleshooting, and verification.
 
-This homelab project helps build practical Linux system administration skills relevant for **DevOps, SysAdmin, and Cloud roles**.
 
 ---
 
@@ -80,6 +79,7 @@ All screenshots of installation, configuration, troubleshooting, and final outpu
 `/Screenshots folder` of this project.
 
 ---
+
 
 ## 🔍 What I Learned
 
