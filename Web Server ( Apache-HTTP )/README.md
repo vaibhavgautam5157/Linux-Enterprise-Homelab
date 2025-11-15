@@ -29,12 +29,6 @@ This homelab project helps build practical Linux system administration skills re
 ---
 
 ## 📂 Project Structure
-Linux-Enterprise-Homelab/
-└── Web Server (Apache-HTTP)/
-├── commands.txt
-├── webpage.htm / index.html
-└── Screenshots/
-
 
 ---
 
@@ -45,57 +39,59 @@ Linux-Enterprise-Homelab/
 sudo dnf install httpd -y
 
 
-2️⃣ Start & Enable the Service
+### 2️⃣ Start & Enable the Service
 
 sudo systemctl start httpd
 sudo systemctl enable httpd
 
 
-3️⃣ Check Service Status
+### 3️⃣ Check Service Status
 
 sudo systemctl status httpd
 
 
-4️⃣ Create Custom Webpage ( /var/wwww/html )
+### 4️⃣ Create Custom Webpage ( /var/wwww/html )
 
 vi index.html
 
 
-5️⃣ Disable Firewalld for Testing 
+### 5️⃣ Disable Firewalld for Testing 
 
 sudo systemctl stop firewalld
 sudo systemctl disable firewalld
 
 
-6️⃣ Fix Default Test Page Issue
+### 6️⃣ Fix Default Test Page Issue
 
 sudo systemctl restart httpd
 
 
-7️⃣ Final Verification
+### 7️⃣ Final Verification
 Open browser →
 
 http://server-ip
 
 You will now see your custom webpage.
 
+---
 
-
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 All screenshots of installation, configuration, troubleshooting, and final output are available in the
 /Screenshots folder of this project.
 
 
-🔍 What I Learned
-How Apache HTTPD works internally
 
-How Linux serves static web content
+## 🔍 What I Learned
 
-Managing services using systemctl
+- How Apache HTTPD works internally
 
-Understanding default Apache configuration files
+- How Linux serves static web content
 
-Fixing common issues like the Apache test page
+- Managing services using systemctl
 
-Hosting a webpage on a Linux server
+- Understanding default Apache configuration files
+
+- Fixing common issues like the Apache test page
+
+- Hosting a webpage on a Linux server
