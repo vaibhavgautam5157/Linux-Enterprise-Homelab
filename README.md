@@ -2,4 +2,5 @@
 
 ## Modules Included
 - [Disk Partitioning](https://github.com/vaibhavgautam5157/Linux-Enterprise-Homelab/tree/main/Disk%20Partitioning)
-- [LVM Partition](https://github.com/vaibhavgautam5157/Linux-Enterprise-Homelab/tree/main/LVM)
+- [Logical Volume Management](https://github.com/vaibhavgautam5157/Linux-Enterprise-Homelab/tree/main/LVM)
+- [Configure Apache web server](https://github.com/vaibhavgautam5157/Linux-Enterprise-Homelab/tree/main/Web%20Server%20(%20Apache-HTTP%20))
