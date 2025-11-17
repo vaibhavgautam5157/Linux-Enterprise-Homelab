@@ -1,4 +1,4 @@
-# 🦑 Squid Proxy Server – Linux Enterprise Homelab
+# 🦑 Squid Proxy Server 
 
 - **Squid is a type of proxy server that helps manage internet traffic.**
 - **It acts as a middleman between your device and the websites you visit, and it is especially good at speeding things up.**
