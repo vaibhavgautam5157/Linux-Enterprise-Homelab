@@ -7,9 +7,13 @@ LVM is a storage management technology used in Linux that provides far more flex
 
 ### **📘 How It Works:**
 
-➡️ In the first scenario (Single Disk + Volume Group), a single disk is partitioned and assigned to one volume group.
+<img width="629" height="481" alt="LVM" src="https://github.com/user-attachments/assets/e21d2807-ad7c-4fa5-a9c0-e53391df5507" />
 
-➡️ In the second scenario (Multiple Disks + One Volume Group), several disks are combined into a single volume group from which multiple logical volumes (partitions) are created.
+
+
+**➡️ In the first scenario (Single Disk + Volume Group), a single disk is partitioned and assigned to one volume group.**
+
+**➡️ In the second scenario (Multiple Disks + One Volume Group), several disks are combined into a single volume group from which multiple logical volumes (partitions) are created.**
 
 
 ### **⚙️ Advantages of LVM:**
